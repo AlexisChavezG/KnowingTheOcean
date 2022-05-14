@@ -1,0 +1,131 @@
+[
+    {
+      "name": "Totoaba",
+      "nombreCientifico": "Totoaba macdonaldi",
+      "id": 1,
+      "familia": "Sciaenidae",
+      "habitat": "Golfo de California", 
+      "otros_nombres": [
+        "corvina",
+        "cabicucho"
+      ],
+      "poblacionRestante": 350000, 
+      "ubicacionGeografica": "Alto Golfo de California",
+      "causasExtincion": "¿Por qué esta en peligro de extinción? La sobrepesca provocó inicialmente el declive en las poblaciones de totoaba silvestre. Ahora que todas las pesquerías se encuentran cerradas, la captura ilegal es la responsable del continuo declive"
+    },
+    {
+      "name": "Tortuga carey",
+      "nombreCientifico": "Eretmochelys Imbricata",
+      "id": 2,
+      "familia": "quelónidos",
+      "otros_nombres": [
+        "hawksbill sea turtle",
+        "pico de halcon"
+      ],
+      "poblacionRestante": 20000,
+      "ubicacionGeografica": "Oceano Atlantico",
+      "causasExtincion": "A causa de las prácticas de pesca humanas, las poblaciones de esta especie a lo largo de todo el mundo se encuentran en serio peligro, por lo que ha sido clasificada por la Unión Internacional para la Conservación de la Naturaleza como especie en peligro crítico de extinción. Varios países, como China y Japón, las han cazado por su carne, considerada un manjar. Los caparazones de las carey y el material que los constituye (también llamado carey) ha sido empleado para la confección de objetos decorativos."
+    },
+    {
+      "name": "Vaquita Marina",
+      "nombreCientifico": "Phocoena Sinus",
+      "id": 3,
+      "familia": "Phocoenidae",
+      "otros_nombres": [
+        "cochito",
+        "Marsopa vaquita",
+        "Vaquita"
+      ],
+      "poblacionRestante": 60,
+      "ubicacionGeografica": "Norte del Golfo de California",
+      "causasExtincion": "La mayor amenaza es el uso indiscriminado de redes de enmalle para la pesca 'pasiva' (chinchorros) intentando atrapar totoabas, el cual es un pez grande, que también se encuentra en peligro de extinción, y se localiza en el golfo de México. El comercio del pez totoaba (Totoaba macdonaldi) se debe a que su vejiga natatoria es muy apreciada en China."
+    },
+    {
+      "name": "Ballena Azul",
+      "nombreCientifico": "Balaenoptera",
+      "id": 4,
+      "familia": "Balaenopteridae",
+      "otros_nombres": [
+        "rorcual azul",
+        "Ballena con barbas"
+      ],
+      "poblacionRestante": 10000,
+      "ubicacionGeografica": "Atlántico norte, Pacífico norte, océano Antártico, Índico, Pacífico sur",
+      "causasExtincion": "Las ballenas azules eran abundantes en casi todos los océanos hasta comienzos del siglo XX. Durante más de cuarenta años fueron cazadas hasta casi su extinción, lo que incentivó su protección por parte de la comunidad internacional en 1966."
+    },
+    {
+      "name": "Tortuga lora",
+      "nombreCientifico": "Lepidochelys kempii",
+      "id": 5,
+      "familia": "Cheloniidae",
+      "otros_nombres": [
+        "tortuga cotorra",
+        "tortuga bastarda"
+      ],
+      "poblacionRestante": "50000",
+      "ubicacionGeografica": "Océano Atlántico, desde Terranova hasta Venezuela",
+      "causasExtincion": "No está claro que las tortugas lora hayan sido cazadas específicamente por su carne, aunque la intensa explotación de las tortugas marinas alrededor del cambio de siglo bien podría haber incluido a esta especie. Hoy en día, la tortuga lora se enfrenta a dos amenazas sombrías: la pérdida de sus playas de anidación, y la muerte por ahogamiento en redes de arrastre de camarón."
+    },
+    {
+      "name": "León Marino de Steller",
+      "nombreCientifico": "Eumetopias jubatus",
+      "id": 6,
+      "familia": "otáridos",
+      "otros_nombres": [
+        "León marino del norte"
+      ],
+      "poblacionRestante": 40000,
+      "ubicacionGeografica": "islas Kutiles, el mar de Ojotsk y la costa de la península de Kamchatka en Rusia",
+      "causasExtincion": "Las razones de su desaparición se deben a varios factores entre los cuales figuran la caza de manera indiscriminada para obtener la piel, aceite y sus órganos, ya que eran muy apreciados en la medicina tradicional oriental."
+    },
+    {
+      "name": "Tiburon Martillo Gigante",
+      "nombreCientifico": "Sphyrna mokarran",
+      "id": 7,
+      "familia": "Sphyrnidae",
+      "otros_nombres": [
+          "Tiburon cornuda gigante"
+      ],
+      "poblacionRestante": 100000,
+      "ubicacionGeografica": "Tiene una distribución circunglobal, movilizándose por los mares cálidos y tropicales de todo el mundo.",
+      "causasExtincion": "El tiburón martillo gigante es una especie que se captura tanto de forma intencional como incidental. Se comercializa principalmente para el uso de sus aletas, pero también para el consumo de su carne, aceite del hígado, la piel, el cartílago e incluso las mandíbulas."
+      
+    },
+    {
+      "name": "Rorcual común",
+      "nombreCientifico": "Balaenoptera physalus",
+      "score": 8,
+      "familia": "Balaenopteridae",
+      "otros_nombres": [
+        "ballena de aleta"
+      ],
+      "poblacionRestante": 3000,
+      "ubicacionGeografica": "Atlántico Norte, océano Antártico",
+      "causasExtincion": "Como todos los demás misticetos, el rorcual común sufrió una caza intensiva durante el siglo XX y está catalogado como una especie en peligro de extinción. Casi 750 000 de estos rorcuales fueron cazados en el hemisferio sur solo entre 1904 y 1979. La Comisión Ballenera Internacional (CBI) ha establecido una moratoria en la caza comercial de esta ballena,6​ aunque algunos países como Islandia, Noruega y Japón continúan con su caza en determinadas épocas del año."
+    },
+    {
+      "name": "Delfin de Cabeza Blanca",
+      "nombreCientifico": "Cephalorhynchus",
+      "id": 9,
+      "familia": "Delphinidae",
+      "stacks": [
+        "delfín de Héctor",
+        "delfín cara blanca"
+      ],
+      "poblacionRestante": 9000,
+      "ubicacionGeografica": "Aguas de Nueva Zelanda",
+      "causasExtincion": "El delfín de Maui se encuentra en peligro crítico porque es capturado en las redes de pesca o herido por las hélices de los barcos. Los ejemplares adultos tienen en promedio 120 a 140 cm de longitud, y un peso de 50 kg; tienen una aleta dorsal redondeada, y presentan flancos grises y vientre blanco. El delfín realiza cortas zambullidas de hasta 90 s para alimentarse con crustáceos o pequeños peces en el fondo del mar."
+    },
+    {
+      "name": "Tortuga Verde",
+      "nombreCientifico": "Chelonia mydas",
+      "id": 10,
+      "familia": "Cheloniidae",
+      "otros_nombres": [
+        "honu"
+      ],
+      "poblacionRestante": 85000,
+      "ubicacionGeografica": "Las tortugas verdes se encuentran en todo el mundo. Anidan en más de 80 países y viven en las zonas costeras de más de 140 países.",
+      "causasExtincion": "En algunos países, las tortugas son aún cazadas por su carne y sus huevos son recolectados de los nidos para ser comidos. La contaminación daña también indirectamente a las poblaciones de tortugas. Muchas tortugas quedan atrapadas en las redes de pesca y mueren ahogadas. Finalmente, las tortugas pierden su hábitat debido a la expansión de los sitios de habitación humana. Esta ha sido una importante causa en la pérdida de los sitios de anidación de la tortuga verde."
+    }
+    ] 
