@@ -1,16 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><%= titulo %></title>
-</head>
-<body>
-        <h1><%= mensagge %></h1>
-        <a href="/applist" class="btn">My applications</a>
-        
+<%- include('header/header', {titulo: 'KnowingTheOcean'}); %>
+        <button onclick="enviarDatos()" value="enviar">enviar</button>        
         <input id="hola" value=""/>
-    
-    </body>
-</html>
+        <input id="resultado" value=""/>
+        <a href="/infoDex">infoDex</a>
+
+<%- include('footers/footer'); %>

@@ -1,17 +1,28 @@
+const AnimalsController = require("./controllers/animalsControllers");
 const express = require("express");
 const app = express();
 app.use(express.json());
-const port = 3000;
+const port = 3001;
 
 // Motor de plantilla
 app.set("view engine", "ejs");
 app.set("views", __dirname + "/views");
+app.use("/js", express.static('./src/js/'));
 
 app.get("/", (request, response) => {
-    //response.json({message: "Bienvenido a KnowingTheOcean"});
-    response.render("index", { titulo: "inicio EJS", mensagge : 'Este es un mensaje de prueba' });
+    response.render("index");
+});
+app.get("/infoDex", (request, response) => {
+    response.render("infoDex");
 });
 
+app.get("/animalByName/:name", (request, response) => {
+    const animalName = request.params.name;
+    const animalsByName = AnimalsController.filterByNameAnimal(animalName);
+    console.log(animalsByName)
+    response.json(animalsByName);
+
+});
 app.listen(port, () => {
     console.log(`Aplicación funcionando en el puerto:${port}`);
 });
