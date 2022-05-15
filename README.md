@@ -17,8 +17,7 @@ Mediante el uso de tecnologías como HTML, CSS y Javascript se crea una aplicaci
 
 **Tecnologias utilizadas**
 
-
-
+![imagen](https://user-images.githubusercontent.com/99348169/168499456-59f4ee2d-d736-4a01-a80a-0bf0318298bd.png)
 
 
 
