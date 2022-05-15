@@ -1,4 +1,4 @@
-# KnowingTheOcean
+# KnowingTheOcean - Conoce el mundo submarino
 
 Es un proyecto basado en una app web con la finalidad de sumergirse en las profundidades del océano sin viajar, ni mojarse, con el objetivo de echar un vistazo al mundo acuático y en especial a las especies marinas que necesitan especial atención debido a que se encuentran en peligro de extinción en mayor causa por las acciones inconvenientes del hombre.
 
