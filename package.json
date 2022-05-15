@@ -11,7 +11,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "node ./node_modules/.bin/jest",
+    "test": "node ./node_modules/jest/bin/jest.js",
     "server": "node ./libs/server.js"
   },
   "repository": {
