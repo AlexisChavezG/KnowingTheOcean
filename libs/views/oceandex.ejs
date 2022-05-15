@@ -1,32 +1,73 @@
 <%- include('header/header', {titulo: 'Bitacora - KnowingTheOcean'}); %>
-
+<div id="subAling">
+    <img id="submarinoBi" src="/img/submarino.png"/>
+</div>
         <div id="content-box">
             <!-- Left Side, display specie info -->
             <div id="specie-info">
-                <img id="specie-img" src="./images/1_.png">
+                <img id="idImagenBitacora" />
                 <div id="specie-types">
-                    <span class="type-box name">NAME</span>
-                    <br><br>
-                    <span class="type-box scientific_name">SCIENTIFIC NAME</span>
-                    <br><br>
-                    <span class="type-box family">FAMILY</span>
-                    <br><br>
-                    <span class="type-box habitat">HABITAT</span>
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label for="poblacionNum">Población</label>
+                            <input id="poblacionNum" type="text" class="form-control" id="especie" aria-describedby="text" readonly>
+                          </div>
+                    </div>                    
+
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <label for="ubicacionName">Ubicación</label>
+                        <input id="ubicacionName" type="text" class="form-control" id="especie" aria-describedby="text" readonly>
+                      </div>
                 </div>
-                <div id="specie-description"></div>
+                </div>
+                <div id="specie-description">
+                    <div class="form-group">
+                        <label for="txtARiesgos" style="color:black;">Afectaciones a su ecosistema</label>
+                        <textarea id="txtARiesgos" class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+                      </div>
+                </div>
             </div>
             <!-- Right side, display specie list -->
             <div id="specie-list">
-                <div id="1" class="specie-name">TOTOABA</div>
-                <div id="1" class="specie-name">TOTOABA</div>
-                <div id="1" class="specie-name">TOTOABA</div>
-                <div id="1" class="specie-name">TOTOABA</div>
-                <div id="1" class="specie-name">TOTOABA</div>
-                <div id="1" class="specie-name">TOTOABA</div>
-                <div id="1" class="specie-name">TOTOABA</div>
-                <div id="1" class="specie-name">TOTOABA</div>
-                <div id="1" class="specie-name">TOTOABA</div>
-                <div id="1" class="specie-name">TOTOABA</div>
+                <div class="input-group">
+                    <input id="textBusqueda" type="text" class="form-control" id="name" aria-describedby="text" placeholder="Realizar búsqueda" value="">
+                    <button class="btn btn-danger" onclick="enviarDatos()">Buscar</button>
+                </div>
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Nombre</label>
+                        <input id="nameAnimal" type="text" class="form-control" id="name" aria-describedby="text" readonly>
+                      </div>
+                </div>
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Nombre </label>
+                        <input id="nameEspecie" type="text" class="form-control" id="especie" aria-describedby="text" readonly>
+                      </div>
+                </div>
             </div>
         </div>
+        <script type="text/javaScript">
+            var s= document.getElementById("textBusqueda");
+            s.value="";
+            var s= document.getElementById("nameAnimal");
+            s.value = "";
+
+            var s= document.getElementById("nameEspecie");
+            s.value = "";
+
+            
+            var s = document.getElementById("poblacionNum")
+            s.value ="";
+
+            var s = document.getElementById("ubicacionName")
+            s.value ="";
+
+
+            var s = document.getElementById("idImagenBitacora").src="";
+
+            var s = document.getElementById("txtARiesgos")
+            s.value ="";
+            </script>
 <%- include('footers/footer'); %>
