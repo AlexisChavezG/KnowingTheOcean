@@ -11,7 +11,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "node ./node_modules/.bin/jest",
+    "test": "node ./node_modules/jest/bin/jest.js",
     "server": "node ./libs/server.js"
   },
   "repository": {
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/AlexisChavezG/KnowingTheOcean#readme",
   "devDependencies": {
-    "jest": "^26.0.0"
+    "jest": "^26.6.3"
   }
 }
