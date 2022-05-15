@@ -1,7 +1,7 @@
 const TelegramBot = require("node-telegram-bot-api");
 const AnimalsController = require("./controllers/animalsControllers");
 
-const token = "5328471940:AAESnUwLAM2LSoZhdDxjz0klRH84ZNevDZ8";
+const token = "";
 
 const bot = new TelegramBot(token, {polling: true});
 
