@@ -4,10 +4,11 @@ const app = express();
 app.use(express.json());
 const port = 3001;
 
-// Motor de plantilla
 app.set("view engine", "ejs");
 app.set("views", __dirname + "/views");
 app.use("/js", express.static('./src/js/'));
+app.use("/css",express.static('./src/css/'));
+app.use("/img",express.static('./src/img/'))
 
 app.get("/", (request, response) => {
     response.render("index");

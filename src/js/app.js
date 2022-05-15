@@ -1,5 +1,5 @@
 function enviarDatos(){
-    var x = document.getElementById("hola").value; 
+    var x = document.getElementById("textBusqueda").value; 
     const url = `/animalByName/${x}`;
     fetch(url).then((res)=> {
         if(res.status == "200"){
@@ -9,8 +9,16 @@ function enviarDatos(){
         }
     }).then((data) => {
         if(data.length>0){
-            var s= document.getElementById("resultado");
+            var s= document.getElementById("nameAnimal");
             s.value = data[0].name;
+
+            var s= document.getElementById("nameEspecie");
+            s.value = data[0].nombreCientifico;
+            var s = document.getElementById("txtARiesgos")
+            s.value =data[0].causasExtincion;
+            
+            var s = document.getElementById("idImagenBitacora").src=data[0].img;
+
             alert("Resultado: " + data[0].name);
         }else{
             alert("No se encontro información del pokemon")

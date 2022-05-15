@@ -1,0 +1,44 @@
+<%- include('header/headerBitacora', {titulo: 'Bitacora - KnowingTheOcean'}); %>
+<div style="background-color: #0AA1DD;">
+<img src="/img/estrella.png" style="width: 50px;height:50px"/>
+<div id="fondo" class="row">
+    <div id="subAling" class="col-md-12">
+        <img id="submarinoBi" src="/img/submarino.png"/>
+    </div>
+</div>
+<div id="infoBitacora" class="row" style="background-color: #03045E;">
+    <div class="col-md-6" style="height: 100%;">
+        <div class="row" style="padding: 10px;">
+            <div class="col-md-12">
+                <div class="input-group">
+                    <input id="textBusqueda" type="text" class="form-control" id="name" aria-describedby="text" placeholder="Realizar búsqueda" value="">
+                    <button class="btn btn-danger" onclick="enviarDatos()">Buscar</button>
+                </div>
+                <hr/>
+                <div class="form-group">
+                    <label for="exampleFormControlTextarea1">Afectaciones a su ecosistema</label>
+                    <textarea id="txtARiesgos" class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+                  </div>
+            </div>
+        </div>
+    </div>
+    <div  class="col-md-6">
+        <div id="left" class="col-md-12">
+            <img id="idImagenBitacora" />
+        </div>
+        <div class="col-md-12">
+            <div class="form-group">
+                <label for="exampleInputEmail1">Nombre</label>
+                <input id="nameAnimal" type="text" class="form-control" id="name" aria-describedby="text" readonly>
+              </div>
+        </div>
+        <div class="col-md-12">
+            <div class="form-group">
+                <label for="exampleInputEmail1">Nombre cientifico</label>
+                <input id="nameEspecie" type="text" class="form-control" id="especie" aria-describedby="text" readonly>
+              </div>
+        </div>
+    </div>
+</div>
+</div>
+<%- include('footers/footer'); %>
