@@ -20,6 +20,10 @@
     display: flex;
     justify-content:right;
 }
+#subRig{
+    display: flex;
+    justify-content:right;
+}
 #left{
     display: flex;
     justify-content:center;

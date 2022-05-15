@@ -19,6 +19,9 @@ app.get("/infoDex", (request, response) => {
 app.get("/oceandex", (request, response) => {
     response.render("oceandex");
 });
+app.get("/contacto",(request,response)=>{
+    response.render("contacto");
+});
 app.get("/animalByName/:name", (request, response) => {
     const animalName = request.params.name;
     const animalsByName = AnimalsController.filterByNameAnimal(animalName);
