@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "ejs": "^3.1.8",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "node-telegram-bot-api": "^0.57.0"
   },
   "name": "knowingtheocean",
   "description": "Consultar animales en peligro de extinción",
@@ -12,7 +13,8 @@
   },
   "scripts": {
     "test": "node ./node_modules/.bin/jest",
-    "server": "node ./libs/server.js"
+    "server": "node ./libs/server.js",
+    "bot": "node ./libs/bot.js"
   },
   "repository": {
     "type": "git",
