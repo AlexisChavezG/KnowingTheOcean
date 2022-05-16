@@ -35,6 +35,10 @@ npm install jest
 ![imagen](https://user-images.githubusercontent.com/99348169/168501342-ebc78840-b77c-44c5-b7dc-c323a716c37f.png)
 ![imagen](https://user-images.githubusercontent.com/99348169/168501402-0afcaead-e432-4920-8896-8da946f63b03.png)
 
+**Pantall**  
+
+<img width="1440" alt="Captura de Pantalla 2022-05-15 a la(s) 20 09 55" src="https://user-images.githubusercontent.com/99348169/168503662-b9045b2d-afbf-4c71-8a72-b5314270428a.png"> 
+
 
 **Integrantes proyecto**  
 |`José Aleixs Chávez Galeas`|@AlexisChavezG|(launchx10528@innovaccion.mx)|  
