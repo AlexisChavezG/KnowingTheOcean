@@ -36,7 +36,7 @@ npm install jest
 <img width="100" alt="Know" src="https://user-images.githubusercontent.com/99348169/168501402-0afcaead-e432-4920-8896-8da946f63b03.png">
 
 
-**Pantall**  
+**Pantalla**  
 
 <img width="1440" alt="Know" src="https://user-images.githubusercontent.com/99348169/168503662-b9045b2d-afbf-4c71-8a72-b5314270428a.png"> 
 
