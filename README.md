@@ -38,7 +38,7 @@ npm install jest
 
 **Integrantes proyecto**  
 |`José Aleixs Chávez Galeas`|@AlexisChavezG|(launchx10528@innovaccion.mx)|  
-|`PR`|2|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|  
-|`Code Challenge`|3, 4, 5|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|  
-|`Trello`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|  
+|`Eduardo Gonzalez Hernandez`|@EdwEdward|(launchx03855@innovaccion.mx)|  
+|`Angel David Flores Romero `|@AngelDavidFR|[(launchx07232@innovaccion.mx)|  
+|`Jesús Beltrán Barrera`|@jesusbeb|[(launchx02054@innovaccion.mx)|  
 |`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|  
