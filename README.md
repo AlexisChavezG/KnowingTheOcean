@@ -36,7 +36,7 @@ npm install jest
 ![imagen](https://user-images.githubusercontent.com/99348169/168501402-0afcaead-e432-4920-8896-8da946f63b03.png)
 
 
-**Integrantes proyecto**
+**Integrantes proyecto**  
 |`José Aleixs Chávez Galeas`|@AlexisChavezG|(launchx10528@innovaccion.mx)|  
 |`PR`|2|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|  
 |`Code Challenge`|3, 4, 5|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|  
