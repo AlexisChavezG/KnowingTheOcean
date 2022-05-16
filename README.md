@@ -35,10 +35,9 @@ npm install jest
 ![imagen](https://user-images.githubusercontent.com/99348169/168501342-ebc78840-b77c-44c5-b7dc-c323a716c37f.png)
 ![imagen](https://user-images.githubusercontent.com/99348169/168501402-0afcaead-e432-4920-8896-8da946f63b03.png)
 
-**Comandos utlizados**
 
 
-|`fizzbuzz`|1|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`José Aleixs Chávez Galeas`|@AlexisChavezG|(launchx10528@innovaccion.mx)|
 |`PR`|2|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 |`Code Challenge`|3, 4, 5|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 |`Trello`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
