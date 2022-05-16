@@ -35,6 +35,7 @@ npm install jest
 
 **Pantalla**  
 <img width="1440" alt="Cap" src="https://user-images.githubusercontent.com/99348169/168504559-403bfb23-bf9e-4664-a0a0-9757a4802b26.png">
+<img width="1440" alt="Captura de Pantalla 2022-05-15 a la(s) 20 27 57" src="https://user-images.githubusercontent.com/99348169/168504813-3a30954e-e6cf-4274-8a72-3b4eeb648106.png">
 
 
 
