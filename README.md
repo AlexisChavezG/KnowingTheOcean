@@ -21,6 +21,12 @@ graph TD
 ```
 
 **Tecnologias utilizadas**
+```
+npm init -y  
+```
+```
+npm install express --save  
+```
 
 ![imagen {width:200px}](https://user-images.githubusercontent.com/99348169/168500015-610ff0d3-e1f5-481a-a080-0772277b03ea.png)
 ![imagen](https://user-images.githubusercontent.com/99348169/168501322-0ff611c0-10eb-4c17-8ca7-fde8cb493351.png)
