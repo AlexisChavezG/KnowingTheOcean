@@ -41,4 +41,4 @@ npm install jest
 |`Eduardo Gonzalez Hernandez`|@EdwEdward|(launchx03855@innovaccion.mx)|  
 |`Angel David Flores Romero `|@AngelDavidFR|[(launchx07232@innovaccion.mx)|  
 |`Jesús Beltrán Barrera`|@jesusbeb|[(launchx02054@innovaccion.mx)|  
-|`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|  
+|`Juan Carlos Granados Medina`|@JuanGranadosM|(launchx07511@innovaccion.mx)|  
