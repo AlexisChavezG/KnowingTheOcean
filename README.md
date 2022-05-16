@@ -2,10 +2,7 @@
 
 Es un proyecto basado en una app web con la finalidad de sumergirse en las profundidades del océano sin viajar, ni mojarse, con el objetivo de echar un vistazo al mundo acuático y en especial a las especies marinas que necesitan especial atención debido a que se encuentran en peligro de extinción en mayor causa por las acciones inconvenientes del hombre.
 
-
 **Problematica**
-
-
 
 **Solución**
 
@@ -15,12 +12,17 @@ Mediante el uso de tecnologías como HTML, CSS y Javascript se crea una aplicaci
 
 **Diagrama de solución**
 
+```mermaid
+graph TD
+    A[(endangered_species.json)] --> B[read.js]
+    B --> C(serviceRead.js)
+    C -->D[animalsControllers.js]
+    D -->E[Views]
+```
+
 **Tecnologias utilizadas**
 
 ![imagen {width:200px}](https://user-images.githubusercontent.com/99348169/168500015-610ff0d3-e1f5-481a-a080-0772277b03ea.png)
-
-
-
 
 |`fizzbuzz`|1|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 |`PR`|2|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
