@@ -30,14 +30,15 @@ npm install express --save
 ```
 npm install jest  
 ```
-![imagen {width:200px}](https://user-images.githubusercontent.com/99348169/168500015-610ff0d3-e1f5-481a-a080-0772277b03ea.png)
+<img width="100" alt="Know" src="https://user-images.githubusercontent.com/99348169/168500015-610ff0d3-e1f5-481a-a080-0772277b03ea.png"> 
+
 ![imagen](https://user-images.githubusercontent.com/99348169/168501322-0ff611c0-10eb-4c17-8ca7-fde8cb493351.png)
 ![imagen](https://user-images.githubusercontent.com/99348169/168501342-ebc78840-b77c-44c5-b7dc-c323a716c37f.png)
 ![imagen](https://user-images.githubusercontent.com/99348169/168501402-0afcaead-e432-4920-8896-8da946f63b03.png)
 
 **Pantall**  
 
-<img width="1440" alt="Captura de Pantalla 2022-05-15 a la(s) 20 09 55" src="https://user-images.githubusercontent.com/99348169/168503662-b9045b2d-afbf-4c71-8a72-b5314270428a.png"> 
+<img width="1440" alt="Know" src="https://user-images.githubusercontent.com/99348169/168503662-b9045b2d-afbf-4c71-8a72-b5314270428a.png"> 
 
 
 **Integrantes proyecto**  
